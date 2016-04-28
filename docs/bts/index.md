@@ -9,7 +9,7 @@ The bts module reads your config files and starts a bts instance. All transactio
 
 #### Docker
 We recommend using bts with docker. It is the easiest and fastest to upgrade and maintain.
-You can get the [billtoday docker container from docker hub](https://hub.docker.com/r/hosttoday/ht-docker-billtoday/). It includes bts and a test database for demo purposes. For production you can specify MongoDB credentials via an ENV var at the first run.
+You can get the official [ht-docker-billtoday](https://hub.docker.com/r/hosttoday/ht-docker-billtoday/) container on docker hub. It includes bts and a test database for demo purposes. For production you can specify MongoDB credentials via an ENV var at the first run.
 
-The docker is host.today compliant, so you can use it with the [ht-docker-traffic](https://hub.docker.com/r/hosttoday/ht-docker-traffic/) container.
+The ht-docker-billtoday container is host.today compliant. This means you can use it with the [ht-docker-traffic](https://hub.docker.com/r/hosttoday/ht-docker-traffic/) container.
 
