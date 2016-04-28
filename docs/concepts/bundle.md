@@ -10,5 +10,5 @@ App-2 is another app that creates stock performance reports. It highlights probl
 
 App-1 and App-3 make sense on their own, and you sell them each with their own plan. Since they require different levels of security (App-1 deals with money, App-2 just with data), you develop them in different repos.
 
-But they also make sense as bundle. If both apps use the same bill.today instance for handling plan payments, you can simply tell bill.today the bundle criteria. None of the apps actually needs to know about the bundle pricing, since the apps just know wether the customer in question has purchased a valid plan or not-
+But they also make sense as bundle. If both apps use the same bill.today instance for handling plan payments, you can simply tell bill.today the bundle criteria. None of the apps actually needs to know about the bundle pricing, since the apps just know wether the customer in question has purchased a valid plan or not.
 
