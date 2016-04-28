@@ -1,7 +1,8 @@
 # bundle
 
-a bundle is a plan that bundles an app with another app.
+a bundle is a super plan that bundles two or more plans. A bundle can bundle super plans and app-specific plans.
 
+## Example:
 Say you have two apps (App-1 and App-2) running in production.
 
 App-1 is an app that shows you stocks at different stock exchanges. It lets you purchase them using APIs of various brokers, so you do not need to use the multiple webapps.
