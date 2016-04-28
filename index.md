@@ -14,6 +14,7 @@ If apps use a similar user identifier (like an email address), it is easy to set
 ### Payment providers
 Supported payment providers are PayPal and Stripe.
 
+## Docs Overview:
 | Section | Description |
 | --- | --- |
 | [bts (bill.today server module)](docs/bts/index.md) | the bts package is the heart of the bill.today software stack. It manages payments, invoice creation and plan bundles |
