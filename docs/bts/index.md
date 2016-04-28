@@ -9,5 +9,5 @@ The bts module reads your config files and starts a bts instance. All transactio
 
 #### Docker
 We recommend using bts with docker. It is the easiest and fastest to upgrade and maintain.
-
+You can get the [billtoday docker container from docker hub](https://hub.docker.com/r/hosttoday/ht-docker-billtoday/).
 
