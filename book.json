@@ -1,0 +1,20 @@
+{
+    "structure": {
+        "readme": "index.md"
+    },
+    "plugins": [
+        "disqus",
+        "tonic",
+        "edit-link",
+        "youtube"
+    ],
+    "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/GitZoneTools/knowledgbase/edit/master/",
+            "label": "contribute to this article"
+        },
+        "disqus": {
+            "shortName": "billtoday-docs"
+        }
+    }
+}
