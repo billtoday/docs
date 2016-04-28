@@ -3,7 +3,7 @@ docs for bill.today
 
 ## About bill.today
 ### What is bill.today?
-bill.today allows your applications to focus on getting its job done, without having to worry about payment.  
+bill.today allows your applications to focus on getting their job done, without having to worry about payment.  
 All your app does is running a simple check for the appId against the bill.today server and you get back a json object that tells you only what you need to now:
 
 
